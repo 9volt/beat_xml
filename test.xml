@@ -1,8 +1,13 @@
-<xml>
-<test>test</test>
 <levels>
-<level>Box</level>
-<level>Box2</level>
-<level>Box3</level>
+	<level>
+		<name>Box</name>
+	</level>
+
+	<level>
+		<name>Box</name>
+	</level>
+
+	<level>
+		<name>Box</name>
+	</level>
 </levels>
-</xml>
