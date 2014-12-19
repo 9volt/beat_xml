@@ -1,13 +1,16 @@
 <levels>
 	<level>
 		<name>Box</name>
+		<floors>5</floors>
 	</level>
 
 	<level>
-		<name>Box</name>
+		<name>Box 2</name>
+		<floors>5</floors>
 	</level>
 
 	<level>
-		<name>Box</name>
+		<name>Box 3</name>
+		<floors>7</floors>
 	</level>
 </levels>
