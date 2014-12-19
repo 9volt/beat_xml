@@ -1,3 +1,8 @@
 <xml>
 <test>test</test>
+<levels>
+<level>Box</level>
+<level>Box2</level>
+<level>Box3</level>
+</levels>
 </xml>
